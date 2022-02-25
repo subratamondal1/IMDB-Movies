@@ -1,5 +1,5 @@
 # Excel-Project
-EXCEL Project : Contains 1 Dashboard and 8 Case Studies
+EXCEL Project : I have been hired by IMDB Movies, a movie featuring giant based on the United States ***to design and build an executive level BI solution from scratch***.
 
 ## IMDB Movie Database Vizualization
 This dynamic dashboard is representing the IMDB's Data in a Visually appealing manner due to the presence of various types of charts.
